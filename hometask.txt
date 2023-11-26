@@ -1,0 +1,11 @@
+Отличий между файлами не наблюдается.(сравнивал с помощью pycharm)
+Комментарии:
+1) init
+2) heat added
+3) boots
+4) README added
+5) dots
+6) fix readme
+7) Merge remote-tracking branch 'origin/boots' into boots_buttons
+8) Merge remote-tracking branch 'origin/buttons' into boots_buttons
+9) Merge remote-tracking branch 'origin/hat'
